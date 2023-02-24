@@ -15,7 +15,7 @@ value and light brightness 将UNIT FADER连接到B端口,
 */
 
 #include "FastLED.h"
-#include "M5Stack.h"
+#include <M5StickCPlus.h>
 
 // How many leds in your strip?
 #define NUM_LEDS   14
